@@ -1,0 +1,11 @@
+it\softwaredoctor\webappfaq\repository\JpaRepository.class
+it\softwaredoctor\webappfaq\repositoryimpl\JpaRepositoryImpl.class
+it\softwaredoctor\webappfaq\entity\Faq.class
+it\softwaredoctor\webappfaq\repository\PersistenceUtil.class
+it\softwaredoctor\webappfaq\repositoryimpl\TopicRepositoryImpl.class
+it\softwaredoctor\webappfaq\repositoryimpl\FaqRepositoryImpl.class
+it\softwaredoctor\webappfaq\controller\FaqServlet.class
+it\softwaredoctor\webappfaq\repository\TopicRepository.class
+it\softwaredoctor\webappfaq\entity\Topic.class
+it\softwaredoctor\webappfaq\repository\FaqRepository.class
+it\softwaredoctor\webappfaq\controller\TopicServlet.class
